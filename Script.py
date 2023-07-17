@@ -121,18 +121,18 @@ Nᴀᴍᴇ - {}"""
 
     CUDNT_FND = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}
 ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏɴᴇ ᴏꜰ ᴛʜᴇꜱᴇ?"""
-
+    
     I_CUDNT = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ {} 😕
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 or Uncharted En
+ᴇxᴀᴍᴘʟᴇ : \n➨ 𝙺𝙶𝙵\n➨ 𝚁𝚁𝚁\n➨ 𝙿𝚞𝚜𝚑𝚙𝚊\n➨ 𝚅𝚊𝚛𝚒𝚜𝚞\n➨ 𝙺𝚊𝚗𝚝𝚊𝚛𝚊\n\n
 
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
+ᴇxᴀᴍᴘʟᴇ : \n➨ 𝙼𝚒𝚛𝚣𝚊𝚙𝚞𝚛 S01\n➨ 𝙶𝚞𝚝𝚞𝚛 𝙶𝚞 S01\n➨ 𝙲𝚘𝚕𝚕𝚎𝚐𝚎 𝚁𝚘𝚖𝚊𝚗𝚌𝚎 S01\n➨ 𝙰𝚜𝚞𝚛 S01\n\n
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
@@ -195,12 +195,12 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
+🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/https://t.me/+wQpK7mlEc_JkNjVl">Movie request</a>
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Bot_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️ porn : @SEX_PORN_DESI_CHANNEL_BOT
+▫️ new released movies : https://t.me/+D7L-rX9lKA43MGRl
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
